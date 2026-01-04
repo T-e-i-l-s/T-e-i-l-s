@@ -2,8 +2,9 @@
 
 I'm 16 y.o. mobile developer.
 
-- 🟡 **T-Bank** intern
-- 🥇 Hackathon & olympiad enthusiast 
-- 🛠️ I enjoy building helpful utilities
+- 🥇 Hackathon & olympiad enthusiast
+- 🛠️ Enjoy building helpful utilities
+- 🎓 Committed to education
+- 🤝 Passionate about networking
 
 🌐 [My website](https://mustafin.net)
