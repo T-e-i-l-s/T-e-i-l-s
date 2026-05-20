@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Karim
 
-I'm 16 y.o. mobile developer.
+I'm 17 y.o. Android developer.
 
 - 🥇 Hackathon & olympiad enthusiast
 - 🛠️ Enjoy building helpful utilities
